@@ -19,7 +19,7 @@
     "electron-window-state": "^4.0.1",
     "ethereum-client-binaries": "^1.6.1",
     "ethereum-keyfile-recognizer": "^1.0.2",
-    "ethereumjs-abi": "^0.6.3",
+    "ethereumjs-abi": "^0.6.8",
     "fs-promise": "^2.0.0",
     "got": "^6.7.1",
     "i18next": "^7.1.3",
